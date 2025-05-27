@@ -30,4 +30,4 @@ This frontend application implements a task management system focused on usabili
 
 ## 📩 Contact
 
-If you have any questions or feedback, feel free to reach out via [email](mailto:***REMOVED***)!
+If you have any questions or feedback, feel free to reach out via [email](mailto:mail@veysel-karaali.com)!
