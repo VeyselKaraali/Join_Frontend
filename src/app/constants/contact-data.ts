@@ -1,7 +1,7 @@
 export const CONTACT_DATA = {
   name: 'Veysel Karaali',
-  company: 'c/o Block Services',
-  street: 'Stuttgarter Str. 106',
-  city: '70736 Fellbach',
+  company: 'c/o Online-Impressum.de #32772',
+  street: 'Europaring 90',
+  city: '53757 Sankt Augustin',
   email: 'mail@veysel-karaali.com'
 };
